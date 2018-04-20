@@ -106,6 +106,9 @@
 		<Unit filename="/Users/jililrahmat/C_Primer_Plus/chapter02/main.cpp">
 			<Option target="chapter02"/>
 		</Unit>
+		<Unit filename="/Users/jililrahmat/C_Primer_Plus/chapter02/time.cpp">
+			<Option target="chapter02"/>
+		</Unit>
 		<Unit filename="/Users/jililrahmat/C_Primer_Plus/chapter02/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

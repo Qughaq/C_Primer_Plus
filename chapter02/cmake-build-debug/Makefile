@@ -339,6 +339,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/chapter02.dir/build.make CMakeFiles/chapter02.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+time.o: time.cpp.o
+
+.PHONY : time.o
+
+# target to build an object file
+time.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter02.dir/build.make CMakeFiles/chapter02.dir/time.cpp.o
+.PHONY : time.cpp.o
+
+time.i: time.cpp.i
+
+.PHONY : time.i
+
+# target to preprocess a source file
+time.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter02.dir/build.make CMakeFiles/chapter02.dir/time.cpp.i
+.PHONY : time.cpp.i
+
+time.s: time.cpp.s
+
+.PHONY : time.s
+
+# target to generate assembly for a file
+time.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter02.dir/build.make CMakeFiles/chapter02.dir/time.cpp.s
+.PHONY : time.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -372,6 +399,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... time.o"
+	@echo "... time.i"
+	@echo "... time.s"
 .PHONY : help
 
 

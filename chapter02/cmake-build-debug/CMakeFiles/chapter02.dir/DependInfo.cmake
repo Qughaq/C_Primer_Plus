@@ -12,6 +12,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/jililrahmat/C_Primer_Plus/chapter02/ch205_celsius_to_fahrenheit.cpp" "/Users/jililrahmat/C_Primer_Plus/chapter02/cmake-build-debug/CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.o"
   "/Users/jililrahmat/C_Primer_Plus/chapter02/ch206_light_year_to_astronomical_units.cpp" "/Users/jililrahmat/C_Primer_Plus/chapter02/cmake-build-debug/CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.o"
   "/Users/jililrahmat/C_Primer_Plus/chapter02/main.cpp" "/Users/jililrahmat/C_Primer_Plus/chapter02/cmake-build-debug/CMakeFiles/chapter02.dir/main.cpp.o"
+  "/Users/jililrahmat/C_Primer_Plus/chapter02/time.cpp" "/Users/jililrahmat/C_Primer_Plus/chapter02/cmake-build-debug/CMakeFiles/chapter02.dir/time.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

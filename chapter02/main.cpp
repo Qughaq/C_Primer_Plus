@@ -20,6 +20,7 @@ int main() {
     // ch203_run();
     // ch204_age_to_month();
     // ch205_celsius_to_fahrenheit();
-    ch206_light_year_to_astronomical_units();
+    // ch206_light_year_to_astronomical_units();
+    time();
     return 0;
 }

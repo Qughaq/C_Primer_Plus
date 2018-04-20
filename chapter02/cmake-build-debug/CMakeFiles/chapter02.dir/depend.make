@@ -17,3 +17,5 @@ CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.o: ../ch206_
 
 CMakeFiles/chapter02.dir/main.cpp.o: ../main.cpp
 
+CMakeFiles/chapter02.dir/time.cpp.o: ../time.cpp
+
