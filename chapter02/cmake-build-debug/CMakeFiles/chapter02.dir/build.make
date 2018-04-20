@@ -201,6 +201,54 @@ CMakeFiles/chapter02.dir/ch204_age_to_month.cpp.o.provides: CMakeFiles/chapter02
 CMakeFiles/chapter02.dir/ch204_age_to_month.cpp.o.provides.build: CMakeFiles/chapter02.dir/ch204_age_to_month.cpp.o
 
 
+CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.o: CMakeFiles/chapter02.dir/flags.make
+CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.o: ../ch205_celsius_to_fahrenheit.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jililrahmat/C_Primer_Plus/chapter02/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.o -c /Users/jililrahmat/C_Primer_Plus/chapter02/ch205_celsius_to_fahrenheit.cpp
+
+CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jililrahmat/C_Primer_Plus/chapter02/ch205_celsius_to_fahrenheit.cpp > CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.i
+
+CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jililrahmat/C_Primer_Plus/chapter02/ch205_celsius_to_fahrenheit.cpp -o CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.s
+
+CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.o.requires:
+
+.PHONY : CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.o.requires
+
+CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.o.provides: CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.o.requires
+	$(MAKE) -f CMakeFiles/chapter02.dir/build.make CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.o.provides.build
+.PHONY : CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.o.provides
+
+CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.o.provides.build: CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.o
+
+
+CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.o: CMakeFiles/chapter02.dir/flags.make
+CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.o: ../ch206_light_year_to_astronomical_units.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jililrahmat/C_Primer_Plus/chapter02/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.o -c /Users/jililrahmat/C_Primer_Plus/chapter02/ch206_light_year_to_astronomical_units.cpp
+
+CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jililrahmat/C_Primer_Plus/chapter02/ch206_light_year_to_astronomical_units.cpp > CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.i
+
+CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jililrahmat/C_Primer_Plus/chapter02/ch206_light_year_to_astronomical_units.cpp -o CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.s
+
+CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.o.requires:
+
+.PHONY : CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.o.requires
+
+CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.o.provides: CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.o.requires
+	$(MAKE) -f CMakeFiles/chapter02.dir/build.make CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.o.provides.build
+.PHONY : CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.o.provides
+
+CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.o.provides.build: CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.o
+
+
 # Object files for target chapter02
 chapter02_OBJECTS = \
 "CMakeFiles/chapter02.dir/main.cpp.o" \
@@ -208,7 +256,9 @@ chapter02_OBJECTS = \
 "CMakeFiles/chapter02.dir/ch202_long_to_ma.cpp.o" \
 "CMakeFiles/chapter02.dir/ch203_mice.cpp.o" \
 "CMakeFiles/chapter02.dir/ch203_run.cpp.o" \
-"CMakeFiles/chapter02.dir/ch204_age_to_month.cpp.o"
+"CMakeFiles/chapter02.dir/ch204_age_to_month.cpp.o" \
+"CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.o" \
+"CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.o"
 
 # External object files for target chapter02
 chapter02_EXTERNAL_OBJECTS =
@@ -219,9 +269,11 @@ chapter02: CMakeFiles/chapter02.dir/ch202_long_to_ma.cpp.o
 chapter02: CMakeFiles/chapter02.dir/ch203_mice.cpp.o
 chapter02: CMakeFiles/chapter02.dir/ch203_run.cpp.o
 chapter02: CMakeFiles/chapter02.dir/ch204_age_to_month.cpp.o
+chapter02: CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.o
+chapter02: CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.o
 chapter02: CMakeFiles/chapter02.dir/build.make
 chapter02: CMakeFiles/chapter02.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jililrahmat/C_Primer_Plus/chapter02/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable chapter02"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jililrahmat/C_Primer_Plus/chapter02/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable chapter02"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/chapter02.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -235,6 +287,8 @@ CMakeFiles/chapter02.dir/requires: CMakeFiles/chapter02.dir/ch202_long_to_ma.cpp
 CMakeFiles/chapter02.dir/requires: CMakeFiles/chapter02.dir/ch203_mice.cpp.o.requires
 CMakeFiles/chapter02.dir/requires: CMakeFiles/chapter02.dir/ch203_run.cpp.o.requires
 CMakeFiles/chapter02.dir/requires: CMakeFiles/chapter02.dir/ch204_age_to_month.cpp.o.requires
+CMakeFiles/chapter02.dir/requires: CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.o.requires
+CMakeFiles/chapter02.dir/requires: CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.o.requires
 
 .PHONY : CMakeFiles/chapter02.dir/requires
 

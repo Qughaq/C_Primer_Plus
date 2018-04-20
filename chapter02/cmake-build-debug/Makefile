@@ -258,6 +258,60 @@ ch204_age_to_month.cpp.s:
 	$(MAKE) -f CMakeFiles/chapter02.dir/build.make CMakeFiles/chapter02.dir/ch204_age_to_month.cpp.s
 .PHONY : ch204_age_to_month.cpp.s
 
+ch205_celsius_to_fahrenheit.o: ch205_celsius_to_fahrenheit.cpp.o
+
+.PHONY : ch205_celsius_to_fahrenheit.o
+
+# target to build an object file
+ch205_celsius_to_fahrenheit.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter02.dir/build.make CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.o
+.PHONY : ch205_celsius_to_fahrenheit.cpp.o
+
+ch205_celsius_to_fahrenheit.i: ch205_celsius_to_fahrenheit.cpp.i
+
+.PHONY : ch205_celsius_to_fahrenheit.i
+
+# target to preprocess a source file
+ch205_celsius_to_fahrenheit.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter02.dir/build.make CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.i
+.PHONY : ch205_celsius_to_fahrenheit.cpp.i
+
+ch205_celsius_to_fahrenheit.s: ch205_celsius_to_fahrenheit.cpp.s
+
+.PHONY : ch205_celsius_to_fahrenheit.s
+
+# target to generate assembly for a file
+ch205_celsius_to_fahrenheit.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter02.dir/build.make CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.s
+.PHONY : ch205_celsius_to_fahrenheit.cpp.s
+
+ch206_light_year_to_astronomical_units.o: ch206_light_year_to_astronomical_units.cpp.o
+
+.PHONY : ch206_light_year_to_astronomical_units.o
+
+# target to build an object file
+ch206_light_year_to_astronomical_units.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter02.dir/build.make CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.o
+.PHONY : ch206_light_year_to_astronomical_units.cpp.o
+
+ch206_light_year_to_astronomical_units.i: ch206_light_year_to_astronomical_units.cpp.i
+
+.PHONY : ch206_light_year_to_astronomical_units.i
+
+# target to preprocess a source file
+ch206_light_year_to_astronomical_units.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter02.dir/build.make CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.i
+.PHONY : ch206_light_year_to_astronomical_units.cpp.i
+
+ch206_light_year_to_astronomical_units.s: ch206_light_year_to_astronomical_units.cpp.s
+
+.PHONY : ch206_light_year_to_astronomical_units.s
+
+# target to generate assembly for a file
+ch206_light_year_to_astronomical_units.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter02.dir/build.make CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.s
+.PHONY : ch206_light_year_to_astronomical_units.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -309,6 +363,12 @@ help:
 	@echo "... ch204_age_to_month.o"
 	@echo "... ch204_age_to_month.i"
 	@echo "... ch204_age_to_month.s"
+	@echo "... ch205_celsius_to_fahrenheit.o"
+	@echo "... ch205_celsius_to_fahrenheit.i"
+	@echo "... ch205_celsius_to_fahrenheit.s"
+	@echo "... ch206_light_year_to_astronomical_units.o"
+	@echo "... ch206_light_year_to_astronomical_units.i"
+	@echo "... ch206_light_year_to_astronomical_units.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

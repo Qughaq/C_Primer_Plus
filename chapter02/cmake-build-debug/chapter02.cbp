@@ -97,6 +97,12 @@
 		<Unit filename="/Users/jililrahmat/C_Primer_Plus/chapter02/ch204_age_to_month.cpp">
 			<Option target="chapter02"/>
 		</Unit>
+		<Unit filename="/Users/jililrahmat/C_Primer_Plus/chapter02/ch205_celsius_to_fahrenheit.cpp">
+			<Option target="chapter02"/>
+		</Unit>
+		<Unit filename="/Users/jililrahmat/C_Primer_Plus/chapter02/ch206_light_year_to_astronomical_units.cpp">
+			<Option target="chapter02"/>
+		</Unit>
 		<Unit filename="/Users/jililrahmat/C_Primer_Plus/chapter02/main.cpp">
 			<Option target="chapter02"/>
 		</Unit>
