@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jililrahmat/C_Primer_Plus/chapter02/ch201_name_and_address.cpp
+iostream
+-
+
+/Users/jililrahmat/C_Primer_Plus/chapter02/ch202_long_to_ma.cpp
+iostream
+-
+
+/Users/jililrahmat/C_Primer_Plus/chapter02/ch203_mice.cpp
+iostream
+-
+
+/Users/jililrahmat/C_Primer_Plus/chapter02/ch203_run.cpp
+iostream
+-
+
+/Users/jililrahmat/C_Primer_Plus/chapter02/main.cpp
+iostream
+-
+

@@ -1,0 +1,15 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/chapter02.dir/main.cpp.o"
+  "CMakeFiles/chapter02.dir/ch201_name_and_address.cpp.o"
+  "CMakeFiles/chapter02.dir/ch202_long_to_ma.cpp.o"
+  "CMakeFiles/chapter02.dir/ch203_mice.cpp.o"
+  "CMakeFiles/chapter02.dir/ch203_run.cpp.o"
+  "CMakeFiles/chapter02.dir/ch204_age_to_month.cpp.o"
+  "chapter02.pdb"
+  "chapter02"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/chapter02.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
