@@ -9,5 +9,13 @@ CMakeFiles/chapter02.dir/ch203_mice.cpp.o: ../ch203_mice.cpp
 
 CMakeFiles/chapter02.dir/ch203_run.cpp.o: ../ch203_run.cpp
 
+CMakeFiles/chapter02.dir/ch204_age_to_month.cpp.o: ../ch204_age_to_month.cpp
+
+CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.o: ../ch205_celsius_to_fahrenheit.cpp
+
+CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.o: ../ch206_light_year_to_astronomical_units.cpp
+
 CMakeFiles/chapter02.dir/main.cpp.o: ../main.cpp
+
+CMakeFiles/chapter02.dir/time.cpp.o: ../time.cpp
 

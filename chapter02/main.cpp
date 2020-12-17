@@ -8,7 +8,7 @@ void ch203_mice();
 void ch203_run();
 void ch204_age_to_month();
 void ch205_celsius_to_fahrenheit();
-void ch206_lightyear_to_astronomicalunits();
+void ch206_light_year_to_astronomical_units();
 void time();
 
 int main() {
@@ -18,6 +18,9 @@ int main() {
     // ch203_mice();
     // ch203_run();
     // ch203_run();
-    void ch204_age_to_month();
+    // ch204_age_to_month();
+    // ch205_celsius_to_fahrenheit();
+    // ch206_light_year_to_astronomical_units();
+    time();
     return 0;
 }

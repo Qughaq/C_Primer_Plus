@@ -5,6 +5,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/chapter02.dir/ch203_mice.cpp.o"
   "CMakeFiles/chapter02.dir/ch203_run.cpp.o"
   "CMakeFiles/chapter02.dir/ch204_age_to_month.cpp.o"
+  "CMakeFiles/chapter02.dir/ch205_celsius_to_fahrenheit.cpp.o"
+  "CMakeFiles/chapter02.dir/ch206_light_year_to_astronomical_units.cpp.o"
+  "CMakeFiles/chapter02.dir/time.cpp.o"
   "chapter02.pdb"
   "chapter02"
 )
